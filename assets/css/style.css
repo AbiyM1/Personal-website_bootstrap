@@ -18,12 +18,12 @@
 
 #indexPage {
     font-family: 'Bebas neue', sans-serif, serif;
-    background-image: url("./assets/images/nav.jpg");
+    background: rgb(109, 109, 109) url(/assets/images/nav.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    color: rgb(109, 109, 109);
+    color: black;
   
 }
 
