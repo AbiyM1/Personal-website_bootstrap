@@ -6,7 +6,7 @@
 
 .sofiaPara {
     font-family: 'Montserrat', sans-serif, serif;
-    line-height: 30px;
+    line-height: 30px; 
     font-size: 15px;
 }
 
@@ -18,7 +18,7 @@
 
 #indexPage {
     font-family: 'Bebas neue', sans-serif, serif;
-    background: url("/assets/images/nav.jpg");
+    background-image: url("./assets/images/nav.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
